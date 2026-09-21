@@ -1,0 +1,42 @@
+[
+    {
+        "id": "Q1",
+        "category": "Normal",
+        "question": "What is Retrieval-Augmented Generation (RAG)?"
+    },
+    {
+        "id": "Q2",
+        "category": "Process",
+        "question": "What is the typical RAG pipeline from documents to the final answer?"
+    },
+    {
+        "id": "Q3",
+        "category": "Retrieval",
+        "question": "You are answering questions about Generative AI and LLM application engineering. In this context, RAG always means Retrieval-Augmented Generation. What are the common retrieval methods used in RAG?"
+    },
+    {
+        "id": "Q4",
+        "category": "Failure Modes",
+        "question": "What are the common failure modes of RAG and how can they be mitigated?"
+    },
+    {
+        "id": "Q5",
+        "category": "Trade-off",
+        "question": "What is the difference between RAG and fine-tuning, and when is each useful?"
+    },
+    {
+        "id": "Q6",
+        "category": "Ambiguous",
+        "question": "What does RAG mean?"
+    },
+    {
+        "id": "Q7",
+        "category": "Engineering",
+        "question": "Why doesn't more retrieved context necessarily improve RAG quality?"
+    },
+    {
+        "id": "Q8",
+        "category": "Design",
+        "question": "When should a simple workflow be preferred over a multi-agent system?"
+    }
+]
