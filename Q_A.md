@@ -1,9 +1,3 @@
-# Nugen Technical Call Preparation Script
-
-## 1. Opening — Tell Me About Yourself
-
-### Answer
-
 Hi, I'm Musharraf.
 
 I have a background in Data Science, Analytics and AI, and I've been focusing on Python, Machine Learning, Generative AI, RAG and Agentic AI.
